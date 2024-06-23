@@ -19,7 +19,7 @@ To use this project, follow these steps:
 3. Choose Destination 
 
 Here is a screenshot of the project in action:
-![Project Screenshot](C:\Users\pje\Dropbox\PE24020012997\1 - Programming and Web Development Basics\L1T20 - Capstone Project - JavaScript Fundamentals\Task\surfVenture_mainPage\img\app\app-screen1.png)
+![Project Screenshot](https://github.com/PjElk/capstone-project/compare/master?expand=1#diff-5eb98e8947d3ba2c468bcfe6a46528916be452ad20eb9a8b98e3b007da713a8f) 
 
 ## Credits
 This project was created by Paul Elkington.
